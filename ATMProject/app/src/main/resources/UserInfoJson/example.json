@@ -1,0 +1,9 @@
+{
+  "card_number": 10000,
+  "PIN": 10000,
+  "start_date": "Sep-3-2021",
+  "expiration_date": "Sep-3-2022",
+  "is_stolen": false,
+  "is_blocked": false,
+  "balance": 20000.5
+}
